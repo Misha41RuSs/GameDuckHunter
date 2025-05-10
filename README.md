@@ -1,0 +1,1 @@
+It is a very simple version of the game Duck Hunter, which includes shooting mechanics, sprite animations, achievements and mechanics its unlocking. The game is disbalance and very simple. I'm not a game developer it is just attempt to fun and explore something new
